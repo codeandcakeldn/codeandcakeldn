@@ -27,3 +27,9 @@ img {
 	padding-top: 20px;
 	text-align: center;
 }
+a, a:visited {
+	color: #95511F;
+}
+a:hover, a:active {
+	#fff;
+}
