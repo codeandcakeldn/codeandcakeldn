@@ -33,3 +33,11 @@ a, a:visited {
 a:hover, a:active {
 	#fff;
 }
+input[type="text"] {
+	color: #e2792c;
+}
+input[type="submit"] {
+	border-color: #fff;
+	color: #fff;
+	margin-left: 10px;
+}
